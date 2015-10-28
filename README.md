@@ -1,1 +1,1 @@
-# docker-oracle_java8
+Oracle Java 8 Dockerfile on debian:jessie
