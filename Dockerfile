@@ -21,6 +21,3 @@ RUN \
 
 # Define JAVA_HOME environmental variable
 ENV JAVA_HOME /usr/lib/jvm/java-8-oracle
-
-WORKDIR /data
-
