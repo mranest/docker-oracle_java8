@@ -7,6 +7,10 @@
     docker run -i -t mranest/oracle_java8 /bin/bash
 
     $ java -version
+    java version "1.8.0_66"
+    Java(TM) SE Runtime Environment (build 1.8.0_66-b17)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)
+    $ 
 
 ### Latest version - 8u66
 
