@@ -3,8 +3,8 @@ FROM debian:jessie
 
 MAINTAINER Anestis Georgiadis <mranest@gmail.com>
 
-# Define JAVA_VERSION
-ENV JAVA_VERSION 8u66+8u65arm-1~webupd8~1 # 8u66-b17
+# Define JAVA_VERSION - 8u66-b17
+ENV JAVA_VERSION 8u66+8u65arm-1~webupd8~1
 
 # Install Java
 # see: http://www.webupd8.org/2014/03/how-to-install-oracle-java-8-in-debian.html
